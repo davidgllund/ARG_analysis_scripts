@@ -4,7 +4,7 @@ import sys
 def make_labels(list, name):
     labels = []
     for row in list:
-        labels.append(name[0])
+        labels.append(name + "\n")
 
     return labels
 
@@ -12,9 +12,7 @@ file1 = open(sys.argv[1], 'r')
 list = file1.readlines()
 file1.close()
 
-file2 = open(sys.argv[2], 'r')
-name = file2.readlines()
-file2.close()
+name = sys.argv[2]
 
 labels = make_labels(list, name)
 
