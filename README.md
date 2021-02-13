@@ -12,3 +12,6 @@ This directory contains scripts that can be used to create phylogenetic trees fr
 
 #### taxonomic_analysis
 This directory contains scripts that can be used to analyze the taxonomy of hosts of predicted ARGs.
+
+#### visualization
+This directory contains scripts that can be used for visualization of the results from analysis of predicted ARGs.
