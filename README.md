@@ -11,7 +11,7 @@ To run the scripts in this repository, the following software is required:
 - FastTree >= 2.1.10
 - BLAST >= 2.2.31
 
-
+### Descriptions of subdirectories
 #### blast_scripts
 This directory contains scripts that can be used to BLAST predicted ARG sequences against a database of reference ARG sequences and idenitfy which sequences represent known ARGs based on sequence similarity.
 
