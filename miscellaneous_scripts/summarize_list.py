@@ -4,7 +4,6 @@
 # entries and the number of times they appear in the original list, sorted in descending order
 #--------------------------------------------------------------------------------------------------------------------
 # Import required packages
-import matplotlib.pyplot as plt
 import numpy as np
 import sys
 
